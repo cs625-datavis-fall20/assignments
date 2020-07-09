@@ -1,4 +1,4 @@
-# HW0 - Personal Introductions in Piazza
+# Personal Introductions in Piazza
 
 **Due:** Tuesday, August 18, 2020 *before* class (9:30am) 
 

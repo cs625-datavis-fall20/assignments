@@ -2,4 +2,4 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 ## Assignments
 
-[HW0](HW0.md) - Personal Intro in Piazza (due Aug 18, Week 1) 
+[Personal Intro](personal-intro.md) - Personal Intro in Piazza (due Aug 18, Week 1) 

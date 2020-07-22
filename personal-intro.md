@@ -10,8 +10,8 @@ In your introduction, provide at least the following information:
 * Name (include pronunciation help if people often mispronounce your name)
 * CS or other major, MS or PhD
 * Hometown/home country
-* Are you taking this course on campus or online?
-* If you are taking the course online, when during the week/day do you expect to work on the class material?  (Ex: during class meeting times, after 7pm on Mon/Wed, after 10pm on Tues/Thurs, only on weekends, etc.)
+* Are you taking this course in-person or online?
+* If you are taking the course online, when during the week/day do you expect to view the class meeting video?  (Ex: join during class meeting times, after 7pm on Mon/Wed, after 10pm on Tues/Thurs, only on weekends, etc.)
 * Are you a full-time or part-time student?  Do you work full-time?
 * Why you are taking this course and what do you expect to gain from it?
 * What are your research or computing/technology interests?

@@ -23,7 +23,7 @@ We will look at all of the entries in class on Tuesday.  I encourage you to post
 
 ## Procedure
 
-Login to our [Piazza group](https://piazza.com/odu/fall2020/cs625/home) and set up your account (click the Gear and then Account/Email Settings), including a picture.  This will only be visible to students in our class.
+Login to our Piazza site (link in Blackboard) and set up your account (click the Gear and then Account/Email Settings), including a picture.  This will only be visible to students in our class.
 
 Create a new Note post (*not reply*) in the `personal-intro` folder to provide your introduction.  Put your name as the "Summary" line. I've already added my introduction as an example for you. 
 

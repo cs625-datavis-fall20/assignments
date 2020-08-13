@@ -1,6 +1,6 @@
 # Personal Introductions in Piazza
 
-**Due:** Tuesday, August 18, 2020 *before* class (9:30am) 
+**Due:** Tuesday, September 1, 2020 *before* class (9:30am) 
 
 ## Assignment
 

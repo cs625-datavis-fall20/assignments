@@ -2,7 +2,7 @@
 
 # Homework 1: Tool Setup
 
-**Due:** September 8, 2020 *before* 9:30am
+**Due:** September 8, 2020 by 11:59pm
 
 The goal of this week's assignment is to get you set up for the rest of the semester.  You'll explore Git (and GitHub), R (and RStudio), Tableau, and Observable with Vega-Lite. 
 

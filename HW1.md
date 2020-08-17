@@ -112,7 +112,8 @@ Include links to any examples that you used in completing this assignment, inclu
 
 ## Submission
 
-Make sure that you Knit your R Markdown so that a report.md file is created.  Also make sure that you have committed and pushed your local repo to GitHub.  Your repo should include at least `README.md` (this file), `report.Rmd`, `report.md` (the result of Knitting your R Markdown), and any image files you've included in your report.
+Make sure that you Knit your R Markdown so that a report.md file is created.  Also make sure that you have committed and pushed your local repo to GitHub.  Your repo should include at least `README.md` (this file), `report.Rmd`, `report.md` (the result of Knitting your R Markdown), and any image files you've included in your report.  Include "Ready to grade @weiglemc" in your final commit message. 
+
 
 Submit the URL of your GitHub project in Blackboard:
 

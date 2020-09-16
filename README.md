@@ -13,3 +13,7 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 Week 2
 * [625_Week_02_Data.ipynb](625_Week_02_Data.ipynb) - Data Cleaning Google Colab notebook - includes regular expressions, Python requests library, Beautiful Soup library
 * [Wk2-OpenRefine-tutorial.md](Wk2-OpenRefine-tutorial.md) - Open Refine tutorial
+
+Week 3
+* https://observablehq.com/d/06499f6a4926793f - Vega-Lite Marks and Channels tutorial in Observable
+* [625_Marks_Channels_R.ipynb](625_Marks_Channels_R.ipynb) - R Marks and Channels tutorial at Google Colab

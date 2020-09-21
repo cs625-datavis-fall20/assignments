@@ -8,6 +8,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW2](HW2.md) - Data Cleaning (due Sep 22, Week 4)
 
+[HW3](HW3.md) - Arrange Tables (due Oct 6, Week 6)
+
 ## Tutorials, Notebooks
 
 Week 2

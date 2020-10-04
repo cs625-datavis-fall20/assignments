@@ -10,6 +10,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW3](HW3.md) - Arrange Tables (due Oct 6, Week 6)
 
+[HW4](HW4.md) - Re-create Charts (due Oct 20, Week 8)
+
 ## Tutorials, Notebooks
 
 Week 2

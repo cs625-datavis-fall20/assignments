@@ -12,6 +12,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW4](HW4.md) - Re-create Charts (due Oct 20, Week 8)
 
+[HW5](HW5.md) - Create Distribution Charts (due Oct 29, Week 9)
+
 ## Tutorials, Notebooks
 
 Week 2
@@ -27,3 +29,6 @@ Week 4
 
 Week 5
 * [Arrange-Tables-examples.md](Arrange-Tables-examples.md) - in-class examples
+
+Week 8
+* Distributions - in-class exercise

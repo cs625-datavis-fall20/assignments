@@ -24,11 +24,8 @@ Week 3
 * https://observablehq.com/d/06499f6a4926793f - Vega-Lite Marks and Channels tutorial in Observable
 * [625_Marks_Channels_R.ipynb](625_Marks_Channels_R.ipynb) - R Marks and Channels tutorial at Google Colab
 
-Week 4
-* [Arrange-Tables-football.md](Arrange-Tables-football.md) - in-class exercise
+Week 4: [Arrange-Tables-football.md](Arrange-Tables-football.md) - in-class exercise
 
-Week 5
-* [Arrange-Tables-examples.md](Arrange-Tables-examples.md) - in-class examples
+Week 5: [Arrange-Tables-examples.md](Arrange-Tables-examples.md) - in-class examples
 
-Week 8
-* Distributions - in-class exercise
+Week 8: Distributions - in-class exercise

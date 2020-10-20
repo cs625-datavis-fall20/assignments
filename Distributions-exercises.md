@@ -1,5 +1,3 @@
-*Current version is copy from Fall 2019*
-
 # Reading Distributions In-Class Exercises
 
 The goal of this exercise is to gain experience reading charts that show distributions, including boxplots, histograms, and eCDFs.
@@ -28,7 +26,7 @@ Answer the following questions:
 
 4) The length of each segment of the boxplot shows the variability of the earnings within that segment.  Which majors have the greatest variability in earnings? The least variability? 
 
-Refer to [Chapter 9.15 - Exercises](https://rafalab.github.io/dsbook/distributions.html#exercises-16) from [*Introduction to Data Science*](https://rafalab.github.io/dsbook/) questions 3-6 for the remaining questions in Part A.
+Refer to [Chapter 8.15 - Exercises](https://rafalab.github.io/dsbook/distributions.html#exercises-17) from [*Introduction to Data Science*](https://rafalab.github.io/dsbook/) questions 3-6 for the remaining questions in Part A.
 
 5) Q3: Which continent has the country with the biggest population size?
 
@@ -40,13 +38,13 @@ Refer to [Chapter 9.15 - Exercises](https://rafalab.github.io/dsbook/distributio
 
 ### Part B - Histograms and eCDFs
 
-Refer to [Chapter 9.7 - Exercises](https://rafalab.github.io/dsbook/distributions.html#exercises-15) from [*Introduction to Data Science*](https://rafalab.github.io/dsbook/).
+Refer to [Chapter 8.7 - Exercises](https://rafalab.github.io/dsbook/distributions.html#exercises-16) from [*Introduction to Data Science*](https://rafalab.github.io/dsbook/).
 
 1) Q1: To the closest 5%, what proportion of the states are in the North Central region?
 
 2) Q3: Based on the plot, what percentage of males are shorter than 75 inches?
 
-3) Q4: To the closest inch, what height m has the property that 1/2 of the male students are taller than m and 1/2 are shorter?
+3) Q4: To the closest inch, what height *m* has the property that 1/2 of the male students are taller than *m* and 1/2 are shorter?
 
 4) Q5: Knowing that there are 51 states (counting DC) and based on this plot, how many states have murder rates larger than 10 per 100,000 people?
 

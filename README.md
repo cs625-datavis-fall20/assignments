@@ -14,6 +14,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW5](HW5.md) - Create Distribution Charts (due Oct 29, Week 9)
 
+[HW6](HW6.md) - Data Exploration in R (due Nov 10, Week 10)
+
 ## Tutorials, Notebooks
 
 Week 2
@@ -28,4 +30,4 @@ Week 4: [Arrange-Tables-football.md](Arrange-Tables-football.md) - in-class exer
 
 Week 5: [Arrange-Tables-examples.md](Arrange-Tables-examples.md) - in-class examples
 
-Week 8: Distributions - in-class exercise
+Week 8: [Distributions-exercises.md](Distributions-exercises.md) - in-class exercise

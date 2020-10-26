@@ -16,7 +16,7 @@ All of these exercises come from [Chapter 5 (Data Transformations)](https://r4ds
 
 ### arrange()
 
-[Exercises (5.3.1)]((https://r4ds.had.co.nz/transform.html#exercises-9)) from [Chapter 5.3](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)
+[Exercises (5.3.1)](https://r4ds.had.co.nz/transform.html#exercises-9) from [Chapter 5.3](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)
 
 **Q3.** 1. How could you use `arrange()` to sort all missing values to the start? 
 

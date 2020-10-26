@@ -4,6 +4,8 @@ The goal of this exercise is to gain experience using the [dplyr package](https:
 
 All of these exercises come from [Chapter 5 (Data Transformations)](https://r4ds.had.co.nz/transform.html) in [*R for Data Science*](https://r4ds.had.co.nz)
  
+I've set up a [Google Colab R notebook](625_Data_Transformation_R.ipynb) that you can work from.
+ 
 ## Exercise
 
 ### filter()

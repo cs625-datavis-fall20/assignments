@@ -8,7 +8,7 @@ All of these exercises come from [Chapter 5 (Data Transformations)](https://r4ds
 
 ### filter()
 
-Exercises from [Chapter 5.2](https://r4ds.had.co.nz/transform.html#exercises-8)
+[Exercises (5.2.4)](https://r4ds.had.co.nz/transform.html#exercises-8) from [Chapter 5.2](https://r4ds.had.co.nz/transform.html#filter-rows-with-filter)
 
 **Q1.** 1. Find all flights that...
 
@@ -16,7 +16,7 @@ Exercises from [Chapter 5.2](https://r4ds.had.co.nz/transform.html#exercises-8)
 
 ### arrange()
 
-Exercises from [Chapter 5.3](https://r4ds.had.co.nz/transform.html#exercises-9)
+[Exercises (5.3.1)]((https://r4ds.had.co.nz/transform.html#exercises-9)) from [Chapter 5.3](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)
 
 **Q3.** 1. How could you use `arrange()` to sort all missing values to the start? 
 
@@ -28,11 +28,13 @@ Exercises from [Chapter 5.3](https://r4ds.had.co.nz/transform.html#exercises-9)
 
 ### select()
 
-**Q7.** (*not from [Chapter 5.4](https://r4ds.had.co.nz/transform.html#exercises-10)*) Use ```select()``` in conjunction with ```arrange()``` to sort by the shortest flight (as above) and move the distance column to the first position. This can be in two commands -- we'll look at using pipes later.
+[Chapter 5.4](https://r4ds.had.co.nz/transform.html#select)
+
+**Q7.** Use ```select()``` in conjunction with ```arrange()``` to sort by the shortest flight (as above) and move the distance column to the first position. This can be in two commands -- we'll look at using pipes later.
 
 ### mutate()
 
-Exercises from [Chapter 5.5](https://r4ds.had.co.nz/transform.html#exercises-11)
+[Exercises](https://r4ds.had.co.nz/transform.html#exercises-11) from [Chapter 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
 
 **Q8.** 1. Currently `dep_time` and `sched_dep_time` are convenient to look at, but hard to compute with because they’re not really continuous numbers. Convert them to a more convenient representation of number of minutes since midnight.
 

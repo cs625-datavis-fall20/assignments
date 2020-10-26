@@ -2,7 +2,7 @@
 
 The goal of this exercise is to gain experience using the [dplyr package](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8) in R to transform data. This is in preparation for performing EDA and HW6. 
 
-All of these exercises come from [Chapter 5 (Data Transformations)](https://r4ds.had.co.nz/transform.html) in [*R from Data Science*](https://r4ds.had.co.nz)
+All of these exercises come from [Chapter 5 (Data Transformations)](https://r4ds.had.co.nz/transform.html) in [*R for Data Science*](https://r4ds.had.co.nz)
  
 ## Exercise
 

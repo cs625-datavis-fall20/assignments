@@ -34,7 +34,7 @@ All of these exercises come from [Chapter 5 (Data Transformations)](https://r4ds
 
 ### mutate()
 
-[Exercises](https://r4ds.had.co.nz/transform.html#exercises-11) from [Chapter 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
+[Exercises (5.5.2)](https://r4ds.had.co.nz/transform.html#exercises-11) from [Chapter 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
 
 **Q8.** 1. Currently `dep_time` and `sched_dep_time` are convenient to look at, but hard to compute with because they’re not really continuous numbers. Convert them to a more convenient representation of number of minutes since midnight.
 

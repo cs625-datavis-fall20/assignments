@@ -16,6 +16,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW6](HW6.md) - Data Exploration in R (due Nov 10, Week 10)
 
+[HW7](HW7.md) - Generating Questions from Real-World Data (due Dec 1, Week 12)
+
 ## Tutorials, Notebooks
 
 Week 2

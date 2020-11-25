@@ -18,6 +18,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW7](HW7.md) - Generating Questions from Real-World Data (due Dec 1, Week 12)
 
+[HW8](HW8.md) - Refine Chart (due Dec 11, Week 13)
+
 ## Tutorials, Notebooks
 
 Week 2
@@ -27,9 +29,19 @@ Week 2
 Week 3
 * https://observablehq.com/d/06499f6a4926793f - Vega-Lite Marks and Channels tutorial in Observable
 * [625_Marks_Channels_R.ipynb](625_Marks_Channels_R.ipynb) - R Marks and Channels tutorial at Google Colab
+* [625_Marks_Channels_R-inclass.ipynb](625_Marks_Channels_R-inclass.ipynb) - result of in-class discussion
 
 Week 4: [Arrange-Tables-football.md](Arrange-Tables-football.md) - in-class exercise
 
 Week 5: [Arrange-Tables-examples.md](Arrange-Tables-examples.md) - in-class examples
 
 Week 8: [Distributions-exercises.md](Distributions-exercises.md) - in-class exercise
+
+Week 9:
+* [Data-Transformations.md](Data-Transformations.md) - in-class exercise
+* [625_Data_Transformation_R.ipynb](625_Data_Transformation_R.ipynb) - R notebook at Google Colab
+
+Week 10:
+* [625_Storytelling_in_R_exercise.ipynb](625_Storytelling_in_R_exercise.ipynb) - in-class tutorial/exercises
+* [625_Storytelling_in_R_exercise_Sol.ipynb](625_Storytelling_in_R_exercise_Sol.ipynb) - result of in-class discussion
+

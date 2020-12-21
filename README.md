@@ -27,7 +27,7 @@ Week 2
 * [Wk2-OpenRefine-tutorial.md](Wk2-OpenRefine-tutorial.md) - Open Refine tutorial
 
 Week 3
-* https://observablehq.com/d/06499f6a4926793f - Vega-Lite Marks and Channels tutorial in Observable
+* Vega-Lite Marks and Channels tutorial in Observable - https://observablehq.com/d/06499f6a4926793f
 * [625_Marks_Channels_R.ipynb](625_Marks_Channels_R.ipynb) - R Marks and Channels tutorial at Google Colab
 * [625_Marks_Channels_R-inclass.ipynb](625_Marks_Channels_R-inclass.ipynb) - result of in-class discussion
 
@@ -45,3 +45,8 @@ Week 10:
 * [625_Storytelling_in_R_exercise.ipynb](625_Storytelling_in_R_exercise.ipynb) - in-class tutorial/exercises
 * [625_Storytelling_in_R_exercise_Sol.ipynb](625_Storytelling_in_R_exercise_Sol.ipynb) - result of in-class discussion
 
+Week 12:
+* Multi-View Composition in Vega-Lite notebook, https://observablehq.com/@weiglemc/cs-625-multi-view-composition-in-vega-lite
+
+Week 13:
+* Interaction in Vega-Lite notebook, https://observablehq.com/@weiglemc/cs-625-interaction
